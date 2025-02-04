@@ -13,7 +13,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/react-weather-app.git  
+git clone https://github.com/DEEP13-2-5/react-weather-app.git  
 cd react-weather-app  
 Install dependencies:
 bash
